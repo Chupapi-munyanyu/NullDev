@@ -1409,7 +1409,7 @@ label {
     position: relative;
     padding: 24px;
     width: 360px;
-    max-width: 368px;
+    max-width: 360px;
     flex-grow: 1;
 }
 .pricing-table::before {
