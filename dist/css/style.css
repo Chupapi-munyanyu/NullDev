@@ -1438,7 +1438,7 @@ label {
     display: flex;
     flex-wrap: wrap;
     background: #2c3039;
-    padding: 24px;
+    padding: 18px;
     height: 100%;
 }
 .pricing-table-inner > * {
