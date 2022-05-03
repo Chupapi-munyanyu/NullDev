@@ -618,7 +618,7 @@ label {
     text-align: right;
 }
 .text-primary {
-    color: #0270d7;
+    color: #008C8C;
 }
 .has-top-divider {
     position: relative;
@@ -1052,11 +1052,11 @@ label {
     height: 32px;
 }
 .button-primary {
-    background: #097dea;
+    background: #29FFFF;
     background: linear-gradient(65deg, #0270d7 0, #0f8afd 100%);
 }
 .button-primary:hover {
-    background: #0982f4;
+    background: #18A7B5;
     background: linear-gradient(65deg, #0275e1 0, #198ffd 100%);
 }
 .button-block {
